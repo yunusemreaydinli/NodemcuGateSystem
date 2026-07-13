@@ -1,0 +1,9 @@
+# Local secrets — copy gate_config.example.h to gate_config.h
+gate_config.h
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.bin
+*.elf
+*.hex
